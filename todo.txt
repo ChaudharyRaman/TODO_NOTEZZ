@@ -1,0 +1,26 @@
+TODO MODEL -- 
+            done - boolean
+            todo- String
+            id - String
+            createdAt - Date
+            updatedAt - Date
+            userId - String
+            user - User
+        }
+
+ROutes--
+    GET -/api/todo
+    POST -/api/todo
+    GET -/api/todo/:id
+    PUT -/api/todo/:id
+    DELETE -/api/todo/:id
+
+FrontEnd--
+    header
+    side bar 
+    main content
+    todoList
+    list button ADD
+    list button DELETE
+    list button EDIT
+
